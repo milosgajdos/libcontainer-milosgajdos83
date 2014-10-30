@@ -1,5 +1,7 @@
 ## libcontainer - reference implementation for containers
 
+** 30.10.20145 UPDATE: THIS LIBCONTAINER FORK WILL NO LONGER BE MAINTAINED. TENUS IS NO LONGER USING IT. ALL THE BUG FIXES AND CHANGES INTRODUCED IN THIS FORK HAVE NOW BEEN PROPAGATED INTO THE DOCKER'S LIBCONTAINER REPO"**
+
 ### Note on API changes:
 
 Please bear with us while we work on making the libcontainer API stable and something that we can support long term.  We are currently discussing the API with the community, therefore, if you currently depend on libcontainer please pin your dependency at a specific tag or commit id.  Please join the discussion and help shape the API.
